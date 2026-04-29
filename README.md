@@ -43,7 +43,7 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 |---|---|
 | Machine Learning Applied to Geology – AlphaGeo | [Certificate](https://drive.google.com/file/d/1q420hDTLXKHiRYYz9c30yDvDMRX2e1FU/view?usp=drive_link) |
 | An Introduction to Geological Drafting for Subsurface Professionals – Define Geographics Limited | [Certificate](https://drive.google.com/file/d/1NneMm-d5xu5Avs3x3IEM5iKimYD0gYTI/view?usp=drive_link) |
-| Well Logs – Professor Roberto Rosa | [Certificate](https://drive.google.com/file/d/1bkWoq-c39c0nKwTvgxUTyZ1P7ftxdh_w/view?usp=drive_link) |
+| Well Logs – Professor Roberto Rosa | [Certificate](https://drive.google.com/file/d/1bkWoq-c39c0nKwTvgxUTyZlP7ftxdh_w/view?usp=drive_link) |
 | Petrel Seismic Interpretation for Beginners – Professor Scotty Salamoff | [Certificate](https://drive.google.com/file/d/10LrOuViHLVmDrwLQyHvOSYhO5N9ENAWt/view?usp=drive_link) |
 | I Workshop AAPG Unicamp 2023: Petroleum Geology – AAPG Unicamp Student Chapter | [Certificate](https://drive.google.com/file/d/1nrjHOqYwWqM55_QXe-E6Cdpe4VX6K5C5/view?usp=drive_link) |
 | 3D Reservoir Geological Modeling – Udemy (Serdar Kaya) | [Certificate](https://drive.google.com/file/d/1sTsenFx0ah4xaZnlbxKWjumYEKOb_cu4/view?usp=drive_link) |

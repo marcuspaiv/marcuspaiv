@@ -32,6 +32,7 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 | Courses | Certificates |
 |---|---|
 | Bootcamp Bradesco – GenAI & Data | [Certificate](https://hermes.dio.me/certificates/AFM4XGEO.pdf) |
+| Machine Learning Applied to Geology – AlphaGeo | [Certificate](https://drive.google.com/file/d/1q420hDTLXKHiRYYz9c30yDvDMRX2e1FU/view?usp=drive_link) |
 ---
 
 ## 📌 Featured Projects

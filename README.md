@@ -4,6 +4,7 @@
 🔬 Researcher at the Geological Reservoir Modeling Lab (MGR) | Shell Partnership  
 🌍 São Paulo, Brazil | 🌐 Português · English · Español · Mandarin (普通话)
 
+![Gif de geologia](https://daniel.scota.com.br/imagens/albuns/gifs/gifs-music/images/rocknroll_mcfly.gif)
 ---
 
 ## 🚀 About Me

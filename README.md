@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Marcus Paiva
 
-🪨 Geologist | 🎓 M.Sc. Student in Petroleum Geology – UNICAMP  
+🪨 Geologist | 🎓 B.Sc. in Geology – UFC | M.Sc. Student in Petroleum Geology – UNICAMP  
 🔬 Researcher at the Geological Reservoir Modeling Lab (MGR) | Shell Partnership  
-🌍 São Paulo, Brazil | 🌐 Português · English · Español · Mandarin (普通话)
+🌍 São Paulo, Brazil | 🌐 Português · English · Spanish · Mandarin (普通话)
 
 ![Gif de geologia](https://daniel.scota.com.br/imagens/albuns/gifs/gifs-music/images/rocknroll_mcfly.gif)
 ---
@@ -29,6 +29,9 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 - **Areas of Expertise:** Petroleum Geology, Seismic Interpretation, Reservoir Modeling, Geoprocessing, AI applied to Geosciences
 - **Languages:** Portuguese (native) · English (fluent, TOEFL 92/120) · Spanish (intermediate) · Mandarin (basic)
 
+| Courses | Certificates |
+|---|---|
+| Bootcamp Bradesco – GenAI & Data | [Certificate](https://hermes.dio.me/certificates/AFM4XGEO.pdf) |
 ---
 
 ## 📌 Featured Projects

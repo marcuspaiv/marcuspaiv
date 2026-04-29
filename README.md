@@ -4,7 +4,7 @@
  
 🪨 Geologist | 🎓 B.Sc. in Geology – UFC | M.Sc. Student in Petroleum Geology – UNICAMP  
 🔬 Researcher at the Geological Reservoir Modeling Lab (MGR) | Shell Partnership  
-🌍 São Paulo, Brazil | 🌐 Português · English · Español · Mandarin (普通话)
+🌍 São Paulo, Brazil | 🌐 Português · English · Spanish · Mandarin (普通话)
  
 [![Email](https://img.shields.io/badge/EMAIL-marcuspaiv%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuspaiv@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-marcuspaiv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspaiv)

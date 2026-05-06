@@ -56,7 +56,7 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 | Course | Certificate |
 |---|---|
 | Bootcamp Bradesco – GenAI & Data | [Certificate](https://hermes.dio.me/certificates/AFM4XGEO.pdf) |
-
+| GitHub Certification | [Certificate](https://hermes.dio.me/certificates/Q0F6MCJW.pdf) |
 
 ---
 

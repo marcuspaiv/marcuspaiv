@@ -76,7 +76,7 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 | Pre-field Foliation Map – Undergraduate Thesis | [Map Link](https://drive.google.com/file/d/1k6QxKMNmtlRop4g90Lb-gE3IVuiMVkiI/view?usp=drive_link) |
 | Pre-field Geology Map – Undergraduate Thesis | [Map Link](https://drive.google.com/file/d/1Rte-DT37XE4YxUrc3jV5x5dGXPHHACyF/view?usp=drive_link) |
 | Mine Map – Internship | [Map Link](https://drive.google.com/file/d/1HThIplwtaz8pzvm-jZHy7fLjJhhRvh9W/view?usp=drive_link) |
-| Post-field Geology Map – Undergraduate Thesis | [Map Link](https://drive.google.com/file/d/1o9P6HI84j3I3cdly_7SP6RuN6i8vzWxg/view?usp=drive_link) |
+| Post-field Geology Map – Undergraduate Thesis | [Map Link](https://drive.google.com/file/d/17EROhfhPLdFoHU5KWraRyKHeMYGkwjaF/view?usp=drive_link) |
 
 ## :bar_chart: Banners
 

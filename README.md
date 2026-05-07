@@ -84,6 +84,12 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 |---|---|
 | Banner 1 | [Banner Link](https://drive.google.com/file/d/1ImV6dRjo_9uyx6vYChCH_e_RpZWw5AHo/view?usp=drive_link) |
 
+## :clipboard: Reports
+
+| Report Title | Report Link |
+|---|---|
+| Undergraduate Thesis | [Report Link](https://drive.google.com/file/d/1qHRsFe4S1ooVC1bJAiBrTXeWDbQa109r/view?usp=drive_link) |
+
 ---
 
 ## 📌 Featured Projects

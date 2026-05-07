@@ -58,6 +58,32 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 | Bootcamp Bradesco – GenAI & Data | [Certificate](https://hermes.dio.me/certificates/AFM4XGEO.pdf) |
 | GitHub Certification | [Certificate](https://hermes.dio.me/certificates/Q0F6MCJW.pdf) |
 
+## :scroll: Maps
+
+| Map Title | Map Link |
+|---|---|
+| Localization Map – Ornamental rocks field | [Map Link](https://drive.google.com/file/d/1GoCeBXX1LkS1AXyuno4clGHC-NaTyTaZ/view?usp=drive_link) |
+| Pre-field localization map - Field 1 | [Map Link](https://drive.google.com/file/d/1j0HbfKE0Tv1rerAkadPhr7Hh26-RgVob/view?usp=drive_link) |
+| Pós-field geology map - Field 1 | [Map Link](https://drive.google.com/file/d/1_2WZXLt4zuRBAM9MDUmgBkas4PbxnIEn/view?usp=drive_link) |
+| Pré-field localization map - Field 2 | [Map Link](https://drive.google.com/file/d/1UEcPcQfiPLr1rP74KML36hOasgJjAbBW/view?usp=drive_link) |
+| Prós-field geology map - Field 2 | [Map Link](https://drive.google.com/file/d/1owaHUjgMOsJdZBrqxS687xivGVxOt141/view?usp=drive_link) |
+| Declivity map - Geotecnic field | [Map Link](https://drive.google.com/file/d/16lvniD7Rpm7Wjf4Ibnp3TI4RsuhaPunn/view?usp=drive_link) |
+| Pre-field localization map - Monography | [Map Link](https://drive.google.com/file/d/1TDw5kzq61qYXkUVLbJmH1AyFRklRBZDU/view?usp=drive_link) |
+| Regional Geology map for monography - Monography | [Map Link](https://drive.google.com/file/d/1_q6E6w8PvcPyf5r_NNe1qXFRJz_wUmtl/view?usp=drive_link) |
+| MDE map for monography - Monography | [Map Link](https://drive.google.com/file/d/143yo_Jk8fYBl2bR29O4pe7LFgwSrkUzu/view?usp=drive_link) |
+| LANDSAT map for monography - Monography | [Map Link](https://drive.google.com/file/d/143yo_Jk8fYBl2bR29O4pe7LFgwSrkUzu/view?usp=drive_link) |(https://drive.google.com/file/d/1oWIBiCb2lFPjXou0QM4Dep0BU2YXb_mL/view?usp=drive_link) |
+| Pré-field localization map - Monography | [Map Link](https://drive.google.com/file/d/14Sz8x2SbVlTr_QtN2B6alTzXKb1XU3u7/view?usp=drive_link) |
+| Pré-field foliation map - Monography | [Map Link](https://drive.google.com/file/d/1k6QxKMNmtlRop4g90Lb-gE3IVuiMVkiI/view?usp=drive_link) |
+| Pré-field geology map - Monography | [Map Link](https://drive.google.com/file/d/1Rte-DT37XE4YxUrc3jV5x5dGXPHHACyF/view?usp=drive_link) |
+| Mine plant - Inter | [Map Link](https://drive.google.com/file/d/1HThIplwtaz8pzvm-jZHy7fLjJhhRvh9W/view?usp=drive_link) |
+| Pós-field geology map - Monography | [Map Link](https://drive.google.com/file/d/1o9P6HI84j3I3cdly_7SP6RuN6i8vzWxg/view?usp=drive_link) |
+
+## :bar_chart: Banners
+
+| Banner Title | Banner Link |
+|---|---|
+| Banner 1 | [Banner Link](https://drive.google.com/file/d/1ImV6dRjo_9uyx6vYChCH_e_RpZWw5AHo/view?usp=drive_link) |
+
 ---
 
 ## 📌 Featured Projects

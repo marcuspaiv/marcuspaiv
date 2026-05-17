@@ -77,7 +77,8 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 | Pre-field Geology Map – Undergraduate Thesis | [Map Link](https://drive.google.com/file/d/1Rte-DT37XE4YxUrc3jV5x5dGXPHHACyF/view?usp=drive_link) |
 | Mine Map – Internship | [Map Link](https://drive.google.com/file/d/1HThIplwtaz8pzvm-jZHy7fLjJhhRvh9W/view?usp=drive_link) |
 | Post-field Geology Map – Undergraduate Thesis | [Map Link](https://drive.google.com/file/d/17EROhfhPLdFoHU5KWraRyKHeMYGkwjaF/view?usp=drive_link) |
-| Localization Map ANM process – Personal Project | [Map Link](https://drive.google.com/file/d/1o66x4hXWsv8xw507ZbCJaSdVHOQAgZ36/view?usp=drive_link) |
+| Localization Map ANM process – PRJ001 | [Map Link](https://drive.google.com/file/d/1o66x4hXWsv8xw507ZbCJaSdVHOQAgZ36/view?usp=drive_link) |
+| Declivity Map – PRJ002 | [Map Link](https://drive.google.com/file/d/1Fv8rRcpQYmxO0R2I2YcsxFmqiUKvOyFh/view?usp=drive_link) |
 
 ## :bar_chart: Banners
 

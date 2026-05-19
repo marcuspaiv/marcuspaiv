@@ -80,6 +80,7 @@ I have experience in mining, geophysics, geotechnics, renewable energy, and geop
 | Localization Map ANM process – PRJ001 | [Map Link](https://drive.google.com/file/d/1o66x4hXWsv8xw507ZbCJaSdVHOQAgZ36/view?usp=drive_link) |
 | DEM Map – PRJ002 | [Map Link](https://drive.google.com/file/d/16rvdFIv1tm_ARDKWzXP5T2uPqp92O5vZ/view?usp=drive_link) |
 | Declivity Map – PRJ002 | [Map Link](https://drive.google.com/file/d/1PGuXoO8ZucjbcXkG9EYpatPHrFiZug6F/view?usp=drive_link) |
+| Sucessibility Map – PRJ003 | [Map Link](https://drive.google.com/file/d/1M6i5PgsdvSv6QqJSvBZa2afUMnJw0U62/view?usp=drive_link) |
 
 ## :bar_chart: Banners
 
